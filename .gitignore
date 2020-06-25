@@ -6,3 +6,6 @@
 
 # PDF files
 *.pdf
+
+# OS files
+.DS_Store
